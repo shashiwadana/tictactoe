@@ -5,7 +5,7 @@ package com.github.robertbraeutigam.tictactoe;
  * two Players, who make their move in turns until the board contains
  * a full row, or the board is full.
  */
-public final class Game {
+public final class   Game {
    private final Board board;
    private final Player[] players;
    private int turn = 0;
